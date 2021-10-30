@@ -1,0 +1,4 @@
+name: Elevator
+version: 1.0
+main: dev.xac.elevator.Elevator
+authors: [ Xac ]
